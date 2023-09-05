@@ -1,0 +1,84 @@
+<!DOCTYPE>
+<html>
+<head>
+	<title>Молочный барон</title>
+	<meta charset="utf-8">
+	<style>
+		.my_font {
+			font-family: 'Bradley Hand', Cursive;
+			color: #ed3f09; width: 300px;
+		}	
+	</style>
+<head>
+<body>
+	<div style="padding-left: 425px; padding-bottom: 50px"><img src="logomilk.jpg"></div>
+	<table>
+	<tr>
+		<td style="padding-left: 100px; height: 100px; width: 150px">
+			<div>
+				<table style="border: solid 2px red">
+				<tr>
+					<td><a href="milk01.html"><img src="milk1.jpg"></a></td>
+					<td class="my_font"><b>Молоко пастеризованное ДОМИК В ДЕРЕВНЕ
+					Деревенское отборное цельное 3,5–4,5%, без змж, 930мл, Россия, 930 мл</b></td>
+				</tr>	
+				</table>
+			</div>	
+		</td>
+		<td style="padding-left: 100px; height: 100px; width: 100px">
+			<div>
+				<table style="border: solid 2px red">
+				<tr>
+					<td><a href="milk01.html"><img src="milk2.jpg"></a></td>
+					<td class="my_font"><b>Молоко ультрапастеризованное СЕЛО ЗЕЛЁНОЕ
+					низколактозное 1,8%, без змж, 950мл, Россия, 950 мл</b></td>
+				</tr>	
+				</table>
+			</div>	
+		</td>
+		<td style="padding-left: 100px; height: 100px; width: 150px">
+			<div>
+				<table style="border: solid 2px red">
+				<tr>
+					<td><a href="milk01.html"><img src="milk3.jpg"></a></td>
+					<td class="my_font"><b>Молоко пастеризованное МОЛКОМ 2,5%, без змж, 950г, Россия, 950 г</b></td>
+				</tr>	
+				</table>
+			</div>	
+		</td>
+	</tr>
+	<tr>
+		<td style="padding-left: 100px; padding-top: 100px; height: 100px; width: 100px">
+			<div>
+				<table style="border: solid 2px red">
+				<tr>
+					<td><a href="milk01.html"><img src="milk4.jpg"></a></td>
+					<td class="my_font"><b>Молоко пастеризованное ДОБРАЯ БУРЕНКА отборное 3,4–5%, без змж, 900г, Россия, 900 г</b></td>
+				</tr>	
+				</table>
+			</div>	
+		</td>
+		<td style="padding-left: 100px; padding-top: 100px; height: 100px; width: 150px">
+			<div>
+				<table style="border: solid 2px red">
+				<tr>
+					<td><a href="milk01.html"><img src="milk5.jpg"></a></td>
+					<td class="my_font"><b>Молоко ультрапастеризованное ПРОСТОКВАШИНО 2,5%, без змж, 950мл, Россия, 950 мл</b></td>
+				</tr>	
+				</table>
+			</div>	
+		</td>
+		<td style="padding-left: 100px; padding-top: 100px; height: 100px; width: 150px">
+			<div>
+				<table style="border: solid 2px red">
+				<tr>
+					<td><a href="milk01.html"><img src="milk6.jpg"></a></td>
+					<td class="my_font"><b>Молоко ПЕСТРАВКА 3,2%, без змж, 1000мл, Россия, 1000 мл</b></td>
+				</tr>	
+				</table>
+			</div>	
+		</td>
+	</tr>	
+	</table>
+</body>
+</html>

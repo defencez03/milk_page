@@ -1,0 +1,50 @@
+<!DOCTYPE>
+<html>
+<head>
+	<title>Молочный барон</title>
+	<meta charset="utf-8">
+	<style>
+		body {
+			background-image: url(milk-phon.jpg);
+			background-attachment: fixed;
+		}
+		li {
+			font-size: 25;
+			font-family: 'Bradley Hand', Cursive;
+			color: #ed3f09;
+		}
+		.scale{
+			transition: 1s;
+		}
+		.scale:hover{
+			transform: scale(1.1);
+		}
+	</style>
+</head>
+<body>
+	<a href="milk.html"><div style="padding-left: 625px"><img src="logomilk-mini.jpg" title="Главная страница" class="scale"></div></a>
+	<table>
+		<tr>
+			<td><div style="padding-left: 100px"><img src="milk5-5.png"></div></td>
+			<td>
+				<div style="background: white; border: solid 3px red; width: 750px">
+				<ul>
+					<li>Бренд - ПРОСТОКВАШИНО
+					<li>Производитель - АО «Данон Россия»
+					<li>Страна производителя - Россия
+					<li>Упаковка - 950 мл
+					<li>Калорийность на 100 г - 53 кКал
+					<li>Жирность,% - 2,5
+					<li>Вид упаковки - ТБ Сквэр
+					<li>Содержание лактозы - Да
+					<li>Тип напитка - Молоко 
+					<li>Способ обработки - Ультрапастеризованный
+					<li>Фермерская продукция -Нет
+					<li>Условия хранения - При температуре от +2 до +25.
+				</ul>
+				</div>
+				<span><p style="background: white; font-size: 40; font-family: 'Bradley Hand', Cursive; color: #ed3f09; width: 350px; border: solid 5px #ed3f09">Цена:108 руб<p><span>
+			</td>
+		</tr>		
+</body>
+</html>

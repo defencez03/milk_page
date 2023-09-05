@@ -1,0 +1,59 @@
+<!DOCTYPE>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Молочный барон</title>
+	<style>
+		body {
+			background-image: url(milk-phon.jpg);
+			background-attachment: fixed;
+			background-size: cover;
+		}
+		dd {
+			font-size: 20;
+			font-family: 'Bradley Hand', Cursive;
+			color: #ed3f09;
+		}
+		.my_font {
+			font-family: 'Bradley Hand', Cursive;
+			color: #ed3f09; width: 300px;
+			text-decoration: none;
+			font-weight: 600;
+			font-size: 25;
+		}
+		.scale{
+			transition: 1s;
+		}
+		.scale:hover{
+			transform: scale(1.1);
+		}		
+	</style>
+</head>
+<body>
+	<a href="milk.html"><div style="padding-left: 625px"><img src="logomilk-mini.jpg" title="Главная страница" class="scale"></div></a>
+	<div style="background: white; border: solid 3px red; width: 750px; margin-top: 50px; margin-left: 525px; height: 450px; width: 500px">
+		<div style="padding-top: 50px" align="center">
+			<b class="my_font">Чинов Даниил Дмитриевич</b>
+			<dd>
+				<dd>Должность: Глава магазина</dd>
+				<dd>Телефон: 89624738844</dd>
+			</dt>
+			<b class="my_font">Тюкалов Василий Евгеньевич</b>
+			<dt>
+				<dd>Должность: Директор магазина</dd>
+				<dd>Телефон: 89789095677</dd>
+			</dt>
+			<b class="my_font">Анохин Никита Романович</b>
+			<dt>
+				<dd>Должность: Зам. директор магазина</dd>
+				<dd>Телефон: 89624738844</dd>
+			</dt>
+			<b class="my_font">Антонов Даниил Сергеевич</b>
+			<dt>
+				<dd>Должность: Гл. администратор</dd>
+				<dd>Телефон: 89779097664</dd>
+			</dt>
+		</div>	
+	</div>
+</body>
+</html>
